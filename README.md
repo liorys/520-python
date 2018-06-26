@@ -9,3 +9,6 @@ git push -u origin master = upload dos arquivos
 git push --force origin master
 
 git remote add origin https://github.com/liorys/520-python.git = adiciona origem
+
+git config --global user.email fabio.fugiyama@yahoo.com.br
+Altera o usuario de origem
