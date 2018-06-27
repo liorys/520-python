@@ -2,6 +2,7 @@
 nome = ['fabio','carla','maria','joseee']
 # nome = [nomes.title() for nomes in nome]#list compression cria uma \
 # copia da propria lista formatada
+#print('sim' if nome == ' daniel else 'nao')# if ternario
 
 print(nome)
 exit()
