@@ -12,6 +12,7 @@ while True:
         break
     soma += num
 print('total: {}'.format(soma))
+
 '''
 
 
@@ -19,9 +20,11 @@ print('total: {}'.format(soma))
 nome = []
 
 while True:
-    x = input('Digite um nome ou 0 para sair: \n')
-    if x == '0':
+    x = input('Digite um nome ou S para sair: \n')
+    if x.lower().strip() == 's':
         break
     nome.append(x)
 print(nome)
+
+
 

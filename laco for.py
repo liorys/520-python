@@ -8,17 +8,19 @@ for nome in nomes:
     nomes2.append(nome.title())
 print(nomes2)
 
-# for x in numeros:#contagem utilizando lista
-    # print(x)
+'''
+ for x in numeros:#contagem utilizando lista
+     print(x)
 
-# for x in range(40,100):#contagem em range
-    # print(x, end="\n\n")#pula duas linhas
+ for x in range(40,100):#contagem em range
+    print(x, end="\n\n")#pula duas linhas
 
-# for x in range(40,100,2):#contagem em passo 2
-#  # print(x)
+ for x in range(40,100,2):#contagem em passo 2
+    print(x)
 
-# for x in range(40,100,-2):#contagem decrescente
-#  # print(x)
+ for x in range(40,100,-2):#contagem decrescente
+    print(x)
+'''
 
 num = int(input('Digite um numero: '))
 

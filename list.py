@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 nome = ['fabio','carla','maria','joseee']
+# nome = [nomes.title() for nomes in nome]#list compression cria uma \
+# copia da propria lista formatada
+
+print(nome)
+exit()
 numeros = list(range(40,100))
 # print(nome[2])
 # nomes2 = nome[2:]
