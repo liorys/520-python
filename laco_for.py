@@ -29,3 +29,10 @@ for x in range(num):
         print('{} par'.format(x))
     else:
         print('{} impar'.format(x))
+
+
+########### list string com for ############
+# for x in range(97, 97 + 27):
+#     print(chr(x))
+
+
