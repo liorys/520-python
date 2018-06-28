@@ -10,18 +10,18 @@ nome = ['fabio','carla','maria','joseee']
 # nome.lstrip()# retora os espacos a esquerda
 
 ############### METODOS E PARAMETROS EM LISTA ############
-# nome.reverse()#Metodo para inverter a lista
-# nome.index(fabio)#Tras a posicao do primeiro nome na lista
-# nome.append(['marta','goku'])#insere no final da lista
-# nome.insert(0,'goku')#insere na posicao desejada
-# nome.pop()#retira o ultimo da lista, ou o selecionado nome.pop(2)
-# nome.remove('fabio')#remove item selecionado
-# nome.sort()#ordena lista de forma numerica interna no python - ord(J) -  chr(74)
-# nome.count('fabio')#conta quantos nomes fabio tem na lista
-# nome.split()# separa o utilizando espaco como separador
-# len(nome)#verifica o tamanho da lista
-# set(nome)#mostra conteudos nao duplicados na lista, list(set(nome)) mostra em formato lista
-
+# nome.reverse()# Metodo para inverter a lista
+# nome.index(fabio)# Tras a posicao do primeiro nome na lista
+# nome.append(['marta','goku'])#i nsere no final da lista
+# nome.insert(0,'goku')# insere na posicao desejada
+# nome.pop()# retira o ultimo da lista, ou o selecionado nome.pop(2)
+# nome.remove('fabio')# remove item selecionado
+# nome.sort()# ordena lista de forma numerica interna no python - ord(J) -  chr(74)
+# nome.count('fabio')# conta quantos nomes fabio tem na lista
+# nome.split(# separa o utilizando espaco como separador
+# len(nome)# verifica o tamanho da lista
+# set(nome)# mostra conteudos nao duplicados na lista, list(set(nome)) mostra em formato lista
+# nome[1] = teste# alterar valor em lista
 
 ################ PRINT SEM PULAR LINHA ##################
 # print('fabio','maria', sep'.')# altera o separador para . (ponto)
